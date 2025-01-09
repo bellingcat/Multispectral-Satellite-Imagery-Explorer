@@ -11,7 +11,7 @@ var tool_summary = ui.Label("The Multispectral Imagery Explorer was designed to 
 var landsat_link = ui.Label("more info about Landsat 8 ↗")
 var article_link = ui.Label("read the full article on the Bellingcat website ↗")
 landsat_link.setUrl("https://gisgeography.com/landsat-8-bands-combinations/")
-article_link.setUrl("https://soup.agnescameron.info/")
+article_link.setUrl("https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/")
 
 var mapsButton = ui.Button('open in Google Maps');
 mapsButton.onClick(function(){
