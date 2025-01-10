@@ -138,7 +138,7 @@ var combinations = {
     bands: ['ferric1', 'ferric2', 'kaolinite'],
     min: 0.6,
     max: 2.8,
-    description: 'Custom band ratio comparison developed as part of mining research with Bellingcat. This consists of ratios highlighting Goethite (R), Haematite (G) and Kaolinite (B). Bauxite appears bright yellow-white, tailings lakes appear bright yellow-blue.',
+    description: 'Custom band ratio comparison developed as part of mining research with Bellingcat. This consists of ratios highlighting Ferric Iron Oxides (R, G) and Kaolinite (and other clay minerals) (B). Bauxite appears bright yellow-white, tailings lakes appear bright yellow-blue.',
     features: [
       {
         'name': 'Manchester Parish, Jamaica',
